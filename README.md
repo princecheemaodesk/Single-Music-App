@@ -1,3 +1,3 @@
-##Single Music App in React
+## Single Music-App
 
 Basic App for playing single music file and showing animation on music start and remove music animation when music pause
